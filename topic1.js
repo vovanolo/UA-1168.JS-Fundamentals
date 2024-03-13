@@ -31,6 +31,12 @@
 
 // name = 5;
 
+// BigInt
+
+// const number = 234242252535n
+// const number = BigInt(234242252535)
+
+
 // console.log(name);
 // console.log(typeof name);
 // console.log(typeof(name));
