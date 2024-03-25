@@ -161,4 +161,3 @@
 // console.log(multiplication(numbers));
 
 
-
