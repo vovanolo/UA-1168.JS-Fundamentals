@@ -20,8 +20,8 @@
 
 // console.log("Server is listening http://localhost:8000");
 
-const {hello, sum} = require('./myfile.js');
+// const {hello, sum} = require('./myfile.js');
 
 
-// console.log(hello);
-console.log(sum(2,2));
+// // console.log(hello);
+// console.log(sum(2,2));
